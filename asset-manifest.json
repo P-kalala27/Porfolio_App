@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Porfolio_App/static/css/main.afae754c.css",
+    "main.js": "/Porfolio_App/static/js/main.03b4b6d4.js",
+    "static/media/Alexander Elder - Trading for a Living_ Psychology, Trading Tactics, Money Management-Wiley (1993).pdf": "/Porfolio_App/static/media/Alexander Elder - Trading for a Living_ Psychology, Trading Tactics, Money Management-Wiley (1993).e0632c444ecc107ebbd9.pdf",
+    "static/media/porfo3.png": "/Porfolio_App/static/media/porfo3.b57797293f260f340ad9.png",
+    "static/media/IMG4.jpg": "/Porfolio_App/static/media/IMG4.a176993973304215fee3.jpg",
+    "static/media/IMG1.jpg": "/Porfolio_App/static/media/IMG1.f39bc772c51479c3748e.jpg",
+    "static/media/IMG2.jpg": "/Porfolio_App/static/media/IMG2.38ab645100344e756dc6.jpg",
+    "static/media/IMG3.jpg": "/Porfolio_App/static/media/IMG3.a03c2a14926e6584dc62.jpg",
+    "static/media/porfo6.png": "/Porfolio_App/static/media/porfo6.e98a9d9de5ff0007ee2e.png",
+    "static/media/abme.jpg": "/Porfolio_App/static/media/abme.c7805dbad36129868c7f.jpg",
+    "static/media/porfo2.png": "/Porfolio_App/static/media/porfo2.780f62d10ee854cf8d42.png",
+    "static/media/porfo5.png": "/Porfolio_App/static/media/porfo5.a086a62f20d900934288.png",
+    "static/media/porfo1.png": "/Porfolio_App/static/media/porfo1.6eafa02ceb2ed17bccd2.png",
+    "static/media/profil2 (1).png": "/Porfolio_App/static/media/profil2 (1).b1452954e79f2605b98f.png",
+    "static/media/porfo4.png": "/Porfolio_App/static/media/porfo4.75217d5aaf3ed38c23d6.png",
+    "index.html": "/Porfolio_App/index.html",
+    "main.afae754c.css.map": "/Porfolio_App/static/css/main.afae754c.css.map",
+    "main.03b4b6d4.js.map": "/Porfolio_App/static/js/main.03b4b6d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afae754c.css",
+    "static/js/main.03b4b6d4.js"
+  ]
+}
